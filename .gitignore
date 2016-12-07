@@ -1,0 +1,9 @@
+lib/
+bin/
+build/
+
+skuska/
+
+# Maven
+log/
+target/
