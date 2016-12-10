@@ -16,4 +16,9 @@ public class App {
 		return 2;
 	}
 
+	public String kokosaa(Integer in) {
+		return "5";
+	}
+
+
 }
