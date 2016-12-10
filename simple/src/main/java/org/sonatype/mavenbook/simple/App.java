@@ -11,4 +11,9 @@ public class App {
 	public Integer kokos(Integer in) {
 		return 1;
 	}
+
+	public Integer kokosa(Integer in) {
+		return 2;
+	}
+
 }
